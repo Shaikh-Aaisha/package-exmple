@@ -1,0 +1,12 @@
+{
+    "name": "aaisha/inspire",
+    "description": "This is example package",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
